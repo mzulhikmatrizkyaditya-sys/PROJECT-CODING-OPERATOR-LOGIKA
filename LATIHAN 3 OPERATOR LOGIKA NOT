@@ -1,0 +1,4 @@
+hujan = True
+membawa_payung = False
+
+print(not(hujan and membawa_payung))
