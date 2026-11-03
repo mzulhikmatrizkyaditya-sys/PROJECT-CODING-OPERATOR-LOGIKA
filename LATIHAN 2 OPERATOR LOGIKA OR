@@ -1,0 +1,5 @@
+lampu = False
+kipas = True
+televisi = False
+
+print(lampu or kipas or televisi)
