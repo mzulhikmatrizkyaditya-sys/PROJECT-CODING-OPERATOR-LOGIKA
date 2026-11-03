@@ -1,0 +1,5 @@
+nilai_1 = True
+nilai_2 = False
+nilai_3 = True
+
+print(nilai_1 and nilai_2 and nilai_3)
